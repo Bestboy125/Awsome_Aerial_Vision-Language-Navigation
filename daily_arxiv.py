@@ -153,7 +153,7 @@ def update_paper_links(filename):
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         return date,title,authors,arxiv_id,code
 
-    with open(filename,"r") as f:
+    with open(filename,"r", encoding="utf-8") as f:
         content = f.read()
         if not content:
             m = {}
@@ -244,11 +244,11 @@ def json_to_md(filename,md_filename,
             data = json.loads(content)
 
     # clean README.md if daily already exist else create it
-    with open(md_filename,"w+") as f:
+    with open(md_filename,"w+", encoding="utf-8") as f:
         pass
 
     # write data into README.md
-    with open(md_filename,"a+") as f:
+    with open(md_filename,"a+", encoding="utf-8") as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
