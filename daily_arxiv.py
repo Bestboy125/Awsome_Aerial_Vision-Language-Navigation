@@ -25,7 +25,7 @@ def load_config(config_file:str) -> dict:
         keywords = dict()
         EXCAPE = '\"'
         QUOTA = '' # NO-USE
-        OR = ' OR ' # TODO
+        OR = ' AND '  # 使用 AND，要求同时包含所有关键词
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
@@ -119,7 +119,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id
         else:
             paper_key = paper_id[0:ver_pos]
-        paper_url = arxiv_url + 'abs/' + paper_key
+        paper_url = arxiv_url + 'all/' + paper_key
 
         # Since PapersWithCode API is deprecated, we no longer fetch code links
         # Papers will be listed without code links
