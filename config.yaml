@@ -23,6 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "aerial vln": 
-        filters: ["aerial", "vln", "vision-and-language navigation"]
+        filters: ["aerial vision-and-language navigation"]
     "common vln":
-        filters: [ "vln",  "vision-and-language navigation"]
+        filters: ["vision-and-language navigation"]
