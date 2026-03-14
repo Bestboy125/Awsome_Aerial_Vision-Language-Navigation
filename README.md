@@ -1,4 +1,4 @@
-## Updated on 2026.03.11
+## Updated on 2026.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2025-08-11**|**Exploring Spatial Representation to Enhance LLM Reasoning in Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2410.08500](http://arxiv.org/all/2410.08500)|null|
 |**2025-08-02**|**CityNav: A Large-Scale Dataset for Real-World Aerial Navigation**|Jungdae Lee et.al.|[2406.14240](http://arxiv.org/abs/2406.14240)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
 ## common vln
 
@@ -42,7 +42,7 @@
 |---|---|---|---|---|
 |**2026-03-10**|**Implicit Geometry Representations for Vision-and-Language Navigation from Web Videos**|Mingfei Han et.al.|[2603.09259](http://arxiv.org/all/2603.09259)|null|
 |**2026-03-09**|**CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval**|Haozhou Li et.al.|[2603.07997](http://arxiv.org/all/2603.07997)|null|
-|**2026-03-07**|**FreeFly-Thinking : Aligning Chain-of-Thought Reasoning with Continuous UAV Navigation**|Jiaxu Zhou et.al.|[2603.07181](http://arxiv.org/all/2603.07181)|null|
+|**2026-03-11**|**FreeFly-Thinking : Aligning Chain-of-Thought Reasoning with Continuous UAV Navigation**|Jiaxu Zhou et.al.|[2603.07181](http://arxiv.org/all/2603.07181)|null|
 |**2026-03-10**|**VLN-Cache: Enabling Token Caching for VLN Models with Visual/Semantic Dynamics Awareness**|Zihao Zheng et.al.|[2603.07080](http://arxiv.org/all/2603.07080)|null|
 |**2026-03-01**|**ProFocus: Proactive Perception and Focused Reasoning in Vision-and-Language Navigation**|Wei Xue et.al.|[2603.05530](http://arxiv.org/all/2603.05530)|null|
 |**2026-02-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Shutian Gu et.al.|[2602.15724](http://arxiv.org/all/2602.15724)|null|
@@ -219,7 +219,7 @@
 |**2023-04-11**|**Improving Vision-and-Language Navigation by Generating Future-View Image Semantics**|Jialu Li et.al.|[2304.04907](http://arxiv.org/all/2304.04907)|null|
 |**2023-03-28**|**KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation**|Xiangyang Li et.al.|[2303.15796](http://arxiv.org/all/2303.15796)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
