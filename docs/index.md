@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.14
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## aerial vln
@@ -34,6 +34,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation**|Zihao Xin et.al.|[2603.13133](http://arxiv.org/all/2603.13133)|null|
+|**2026-03-13**|**HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation**|Pingcong Li et.al.|[2603.12696](http://arxiv.org/all/2603.12696)|null|
 |**2026-03-10**|**Implicit Geometry Representations for Vision-and-Language Navigation from Web Videos**|Mingfei Han et.al.|[2603.09259](http://arxiv.org/all/2603.09259)|null|
 |**2026-03-09**|**CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval**|Haozhou Li et.al.|[2603.07997](http://arxiv.org/all/2603.07997)|null|
 |**2026-03-11**|**FreeFly-Thinking : Aligning Chain-of-Thought Reasoning with Continuous UAV Navigation**|Jiaxu Zhou et.al.|[2603.07181](http://arxiv.org/all/2603.07181)|null|
