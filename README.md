@@ -1,4 +1,4 @@
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,12 +34,13 @@
 |**2025-08-11**|**Exploring Spatial Representation to Enhance LLM Reasoning in Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2410.08500](http://arxiv.org/all/2410.08500)|null|
 |**2025-08-02**|**CityNav: A Large-Scale Dataset for Real-World Aerial Navigation**|Jungdae Lee et.al.|[2406.14240](http://arxiv.org/abs/2406.14240)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## common vln
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**LatentPilot: Scene-Aware Vision-and-Language Navigation by Dreaming Ahead with Latent Visual Reasoning**|Haihong Hao et.al.|[2603.29165](http://arxiv.org/all/2603.29165)|null|
 |**2026-03-27**|**Beyond Textual Knowledge-Leveraging Multimodal Knowledge Bases for Enhancing Vision-and-Language Navigation**|Dongsheng Yang et.al.|[2603.26859](http://arxiv.org/all/2603.26859)|null|
 |**2026-03-27**|**SpatialAnt: Autonomous Zero-Shot Robot Navigation via Active Scene Reconstruction and Visual Anticipation**|Jiwen Zhang et.al.|[2603.26837](http://arxiv.org/all/2603.26837)|null|
 |**2026-03-22**|**SpatialFly: Geometry-Guided Representation Alignment for UAV Vision-and-Language Navigation in Urban Environments**|Wen Jiang et.al.|[2603.21046](http://arxiv.org/all/2603.21046)|null|
@@ -230,7 +231,7 @@
 |**2023-04-11**|**Improving Vision-and-Language Navigation by Generating Future-View Image Semantics**|Jialu Li et.al.|[2304.04907](http://arxiv.org/all/2304.04907)|null|
 |**2023-03-28**|**KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation**|Xiangyang Li et.al.|[2303.15796](http://arxiv.org/all/2303.15796)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
