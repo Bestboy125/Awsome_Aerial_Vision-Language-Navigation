@@ -1,4 +1,4 @@
-## Updated on 2026.04.11
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,13 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-10**|**HTNav: A Hybrid Navigation Framework with Tiered Structure for Urban Aerial Vision-and-Language Navigation**|Chengjie Fan et.al.|[2604.08883](http://arxiv.org/all/2604.08883)|null|
 |**2026-04-09**|**Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models**|Xingyu Xia et.al.|[2604.07705](http://arxiv.org/all/2604.07705)|null|
 |**2026-03-09**|**ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation**|Haoyu Tong et.al.|[2603.08007](http://arxiv.org/abs/2603.08007)|null|
 |**2026-02-17**|**One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation**|Zerui Li et.al.|[2602.15400](http://arxiv.org/abs/2602.15400)|null|
 |**2026-01-07**|**AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions**|Hengxing Cai et.al.|[2601.03707](http://arxiv.org/abs/2601.03707)|null|
 |**2025-12-26**|**LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration**|Wen Jiang et.al.|[2512.22010](http://arxiv.org/abs/2512.22010)|null|
 |**2025-12-17**|**History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation**|Xichen Ding et.al.|[2512.14222](http://arxiv.org/all/2512.14222)|null|
-|**2026-02-25**|**Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning**|Huilin Xu et.al.|[2512.08639](http://arxiv.org/all/2512.08639)|null|
+|**2026-04-15**|**Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning**|Huilin Xu et.al.|[2512.08639](http://arxiv.org/all/2512.08639)|null|
 |**2025-11-21**|**OpenVLN: Open-world Aerial Vision-Language Navigation**|Peican Lin et.al.|[2511.06182](http://arxiv.org/abs/2511.06182)|null|
 |**2025-09-26**|**See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation**|Chih Yao Hu et.al.|[2509.22653](http://arxiv.org/all/2509.22653)|null|
 |**2025-08-21**|**AeroDuo: Aerial Duo for UAV-based Vision and Language Navigation**|Ruipu Wu et.al.|[2508.15232](http://arxiv.org/all/2508.15232)|null|
@@ -35,12 +36,15 @@
 |**2025-08-11**|**Exploring Spatial Representation to Enhance LLM Reasoning in Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2410.08500](http://arxiv.org/all/2410.08500)|null|
 |**2025-08-02**|**CityNav: A Large-Scale Dataset for Real-World Aerial Navigation**|Jungdae Lee et.al.|[2406.14240](http://arxiv.org/abs/2406.14240)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## common vln
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654](http://arxiv.org/all/2604.13654)|null|
+|**2026-04-12**|**VLN-NF: Feasibility-Aware Vision-and-Language Navigation with False-Premise Instructions**|Hung-Ting Su et.al.|[2604.10533](http://arxiv.org/all/2604.10533)|null|
+|**2026-04-10**|**HTNav: A Hybrid Navigation Framework with Tiered Structure for Urban Aerial Vision-and-Language Navigation**|Chengjie Fan et.al.|[2604.08883](http://arxiv.org/all/2604.08883)|null|
 |**2026-04-09**|**Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models**|Xingyu Xia et.al.|[2604.07705](http://arxiv.org/all/2604.07705)|null|
 |**2026-03-31**|**LatentPilot: Scene-Aware Vision-and-Language Navigation by Dreaming Ahead with Latent Visual Reasoning**|Haihong Hao et.al.|[2603.29165](http://arxiv.org/all/2603.29165)|null|
 |**2026-03-27**|**Beyond Textual Knowledge-Leveraging Multimodal Knowledge Bases for Enhancing Vision-and-Language Navigation**|Dongsheng Yang et.al.|[2603.26859](http://arxiv.org/all/2603.26859)|null|
@@ -233,7 +237,7 @@
 |**2023-04-11**|**Improving Vision-and-Language Navigation by Generating Future-View Image Semantics**|Jialu Li et.al.|[2304.04907](http://arxiv.org/all/2304.04907)|null|
 |**2023-03-28**|**KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation**|Xiangyang Li et.al.|[2303.15796](http://arxiv.org/all/2303.15796)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
