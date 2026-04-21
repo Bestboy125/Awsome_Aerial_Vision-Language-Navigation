@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## aerial vln
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**LookasideVLN: Direction-Aware Aerial Vision-and-Language Navigation**|Yuwei Ning et.al.|[2604.17190](http://arxiv.org/all/2604.17190)|null|
 |**2026-04-10**|**HTNav: A Hybrid Navigation Framework with Tiered Structure for Urban Aerial Vision-and-Language Navigation**|Chengjie Fan et.al.|[2604.08883](http://arxiv.org/all/2604.08883)|null|
 |**2026-04-09**|**Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models**|Xingyu Xia et.al.|[2604.07705](http://arxiv.org/all/2604.07705)|null|
 |**2026-03-09**|**ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation**|Haoyu Tong et.al.|[2603.08007](http://arxiv.org/abs/2603.08007)|null|
@@ -36,8 +37,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**LookasideVLN: Direction-Aware Aerial Vision-and-Language Navigation**|Yuwei Ning et.al.|[2604.17190](http://arxiv.org/all/2604.17190)|null|
+|**2026-04-18**|**Rule-VLN: Bridging Perception and Compliance via Semantic Reasoning and Geometric Rectification**|Jiawen Wen et.al.|[2604.16993](http://arxiv.org/all/2604.16993)|null|
 |**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654](http://arxiv.org/all/2604.13654)|null|
-|**2026-04-12**|**VLN-NF: Feasibility-Aware Vision-and-Language Navigation with False-Premise Instructions**|Hung-Ting Su et.al.|[2604.10533](http://arxiv.org/all/2604.10533)|null|
+|**2026-04-19**|**VLN-NF: Feasibility-Aware Vision-and-Language Navigation with False-Premise Instructions**|Hung-Ting Su et.al.|[2604.10533](http://arxiv.org/all/2604.10533)|null|
 |**2026-04-10**|**HTNav: A Hybrid Navigation Framework with Tiered Structure for Urban Aerial Vision-and-Language Navigation**|Chengjie Fan et.al.|[2604.08883](http://arxiv.org/all/2604.08883)|null|
 |**2026-04-09**|**Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models**|Xingyu Xia et.al.|[2604.07705](http://arxiv.org/all/2604.07705)|null|
 |**2026-03-31**|**LatentPilot: Scene-Aware Vision-and-Language Navigation by Dreaming Ahead with Latent Visual Reasoning**|Haihong Hao et.al.|[2603.29165](http://arxiv.org/all/2603.29165)|null|
