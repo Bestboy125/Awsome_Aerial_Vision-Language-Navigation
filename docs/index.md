@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## aerial vln
@@ -37,6 +37,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN**|Ziyi Xia et.al.|[2605.14801](http://arxiv.org/all/2605.14801)|null|
+|**2026-05-13**|**What Limits Vision-and-Language Navigation ?**|Yunheng Wang et.al.|[2605.13328](http://arxiv.org/all/2605.13328)|null|
 |**2026-04-30**|**SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation**|Pengna Li et.al.|[2604.27620](http://arxiv.org/all/2604.27620)|null|
 |**2026-04-29**|**Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation**|Wanrong Zheng et.al.|[2604.26946](http://arxiv.org/all/2604.26946)|null|
 |**2026-04-28**|**Where Did It Go Wrong? Capability-Oriented Failure Attribution for Vision-and-Language Navigation Agents**|Jianming Chen et.al.|[2604.25161](http://arxiv.org/all/2604.25161)|null|
